@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madhavsachdeva
-- 👀 I’m interested in Junior Data Science positions
+- 👀 I’m interested in prospective Ph.D positions and junior data science positions in industry
 - 🌱 I’m currently learning Scala
 - 💞️ I’m looking to collaborate on Big Data Projects
 - 📫 How to reach me @[LinkedIn](https://www.linkedin.com/in/madhav-sachdeva-18ba29218/)
